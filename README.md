@@ -5,7 +5,7 @@ def prime_numbers_up_to(n):
             if num % i == 0:
                 break
         else:
-            primes.append(num)
+            primes.append(nu)
     return primes
 
 if __name__ == "__main__":
